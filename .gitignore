@@ -1,0 +1,19 @@
+**/__pycache__/
+**/.venv
+**/venv
+**/logs
+
+# segredos e dados locais
+.env
+.env.*
+!.env*.example
+*.pem
+*.key
+*.asc
+**/session/storage.json
+__pycache__/
+.venv/
+venv/
+node_modules/
+logs/
+*.log
